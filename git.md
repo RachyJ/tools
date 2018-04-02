@@ -34,3 +34,10 @@ Fetch and merge changes on the remote server to your working directory:
 ```
 git pull
 ```
+
+force your local revision to the remote repo
+
+```
+git push -f <remote> <branch>
+git push -f origin master
+```
