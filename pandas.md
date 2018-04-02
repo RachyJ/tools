@@ -1,5 +1,7 @@
 # Pandas for file type conversion
 
+[Pandoc - Demos](https://pandoc.org/demos.html)
+
 Docx to markdown, including math:
 
 ```
