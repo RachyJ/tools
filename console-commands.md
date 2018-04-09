@@ -8,6 +8,7 @@
 | ------- | --------- |
 | copy | copy a file one location to another |
 | del | delete |
+| new-item | create a new file |
 | dir | display a list of items in a folder |
 | echo | display a message or to turn off/on messages in batch scripts |
 | exit | exit batch script or current command control |
