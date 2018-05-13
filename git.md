@@ -41,3 +41,22 @@ force your local revision to the remote repo
 git push -f <remote> <branch>
 git push -f origin master
 ```
+
+## How to review a file
+
+1. Create a branch and check it out
+
+```
+$ git checkout -b newBranchName
+```
+2. Make the updates on the branch
+
+3. Commit the changes to the branch 
+
+4. Under your repository name, click "Compare & Pull request" to view the edits
+
+5. Merge the branch to major when ready
+
+[GitHub flow - User Documentation](https://help.github.com/articles/github-flow/)
+[Git - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+[Commenting on a pull request - User Documentation](https://help.github.com/articles/commenting-on-a-pull-request/)
