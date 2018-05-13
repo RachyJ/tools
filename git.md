@@ -57,6 +57,6 @@ $ git checkout -b newBranchName
 
 5. Merge the branch to major when ready
 
-[GitHub flow - User Documentation](https://help.github.com/articles/github-flow/)
-[Git - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
-[Commenting on a pull request - User Documentation](https://help.github.com/articles/commenting-on-a-pull-request/)
+* [GitHub flow - User Documentation](https://help.github.com/articles/github-flow/)
+* [Git - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+* [Commenting on a pull request - User Documentation](https://help.github.com/articles/commenting-on-a-pull-request/)
