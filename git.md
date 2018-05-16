@@ -2,6 +2,8 @@
 
 [Basic Git commands - Atlassian Documentation](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 
+[常用 Git 命令清单 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+
 tell git who you are 
 
 ```
@@ -27,6 +29,8 @@ Add files
 git add <filename>
 
 git add *
+
+git add .
 ```
 
 Fetch and merge changes on the remote server to your working directory:
