@@ -22,3 +22,6 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+Image with border
+<kbd>![panorama barcode scan](https://www.dynamsoft.com/assets/images/illus-dwtOverviewSupport-top.png)
