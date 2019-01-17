@@ -24,4 +24,4 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 Image with border
-<kbd>![panorama barcode scan](https://www.dynamsoft.com/assets/images/illus-dwtOverviewSupport-top.png)
+<kbd><img src="https://www.codepool.biz/wp-content/uploads/images/panorama-barcode-scan.jpg" width="50%">
